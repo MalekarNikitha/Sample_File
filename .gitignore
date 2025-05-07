@@ -5,4 +5,5 @@
  # /node_modules (only parent files wil be deleted)
 
  *.txt
-  !test.txt (not ignore specific file)
+  !text.txt 
+  #(not ignore specific file)
