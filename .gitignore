@@ -1,0 +1,7 @@
+# ignore all files
+ # *.log
+# node modules
+ # node_modules/ (deleted all files where it is present)
+ # /node_modules (only parent files wil be deleted)
+
+ *.txt
